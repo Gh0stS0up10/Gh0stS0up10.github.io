@@ -1,0 +1,25 @@
+/*
+ * This is a css class
+ * You can use these for multiple elements
+ */
+.title {
+    color: darkgreen;
+}
+
+/*
+ * This is a css id
+ * You should only use this for one thing
+ */
+#blue {
+    color: blue;
+}
+
+/*
+ * You can also add a html element here
+ * This will change all the h3 elements
+ * As you can see, this didn't change the text "Made by Gh0st".
+ * CSS has specificity.  :)
+ */
+h3 {
+    color: darkslateblue;
+}
